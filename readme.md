@@ -23,7 +23,7 @@ Welcome to the **Hello World API** project! This is a simple RESTful web service
 
 ## Technologies Used
 
-- Java 17
+- Java 25
 - Spring Boot 3.2.1
 - Maven
 - Docker
@@ -34,7 +34,7 @@ Welcome to the **Hello World API** project! This is a simple RESTful web service
 
 To run this project locally, you need to have the following installed:
 
-- [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-downloads.html)
+- [Java 25](https://www.oracle.com/java/technologies/javase/jdk25-downloads.html)
 - [Maven](https://maven.apache.org/download.cgi)
 - [Docker](https://www.docker.com/get-started)
 
